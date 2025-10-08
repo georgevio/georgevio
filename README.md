@@ -6,6 +6,7 @@ R&D manager, expert in embedded systems, IoT protocols, and (far) edge computing
 
 ### 🧩 [IoT-Embedded](https://github.com/georgevio/IoT-Embedded)
 Modular IoT framework integrating BACnet, KNX, LoRaWAN, and BLE. Designed for scalable edge deployments and protocol interoperability.
+
 ![ESP32-CAM](https://github.com/georgevio/ESP32-ZenohMesh/raw/main/pics/esp32-cam.png)
 
 ### ☁️ [TriCloudEdge](https://github.com/georgevio/TriCloudEdge)
@@ -14,7 +15,8 @@ Multi-cloud edge orchestration with embedded AI support. Focused on secure data 
 
 ### 🕸️ [ESP32-ZenohMesh](https://github.com/georgevio/ESP32-ZenohMesh)
 Zenoh-Pico mesh networking on ESP32. Includes TCP/UDP peer mode operation, socket layer debugging, and extensive AI face detection and recognition over AI-generated datasets.
-![ESP32-ZenohMesh](https://github.com/georgevio/ESP32-ZenohMesh/pics/esp32-cam.png)
+
+<img src="https://github.com/georgevio/ESP32-ZenohMesh/raw/main/pics/esp32-cam.png" alt="ESP32-CAM" width="400"/>
 
 ### 🛡️ [ASSET](https://github.com/georgevio/ASSET)
 **PhD Thesis.** Centralized SDN-inspired intrusion detection system for RPL-based IoT networks. It monitors network topology via Contiki/Cooja, detects attacks like rank and grayhole, and uses k-means and Kosaraju algorithms to identify malicious nodes
