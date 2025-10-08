@@ -22,7 +22,7 @@ Zenoh-Pico mesh networking on ESP32. Includes TCP/UDP peer mode operation, socke
 ### 🛡️ [ASSET](https://github.com/georgevio/ASSET)
 **PhD Thesis.** Centralized SDN-inspired intrusion detection system for RPL-based IoT networks. It monitors network topology via Contiki/Cooja, detects attacks like rank and grayhole, and uses k-means and Kosaraju algorithms to identify malicious nodes.
 
-<img src="https://github.com/georgevio/ASSET/raw/main/pics/2-attacks.png" alt="ASSET" width="500"/>
+<img src="https://github.com/georgevio/ASSET/raw/master/pics/2022%20ASSET%20in%20action.png" alt="ASSET in action" width="500"/>
 
 ## 📫 Contact
 - 📍 Based in Europe, navigating embedded deployments across cities and industries
