@@ -6,7 +6,7 @@ R&D manager, expert in embedded systems, IoT protocols, and (far) edge computing
 
 ### 🧩 [IoT-Embedded](https://github.com/georgevio/IoT-Embedded)
 Modular IoT framework integrating BACnet, KNX, LoRaWAN, and BLE. Designed for scalable edge deployments and protocol interoperability.
-![IoT-Embedded]([https://github.com/georgevio/IoT-Embedded/esp-idf/esp32-s3-websocket_server/pics/arch.png](https://github.com/georgevio/ESP32-ZenohMesh/blob/main/pics/esp32-cam.png))
+![ESP32-CAM](https://github.com/georgevio/ESP32-ZenohMesh/raw/main/pics/esp32-cam.png)
 
 ### ☁️ [TriCloudEdge](https://github.com/georgevio/TriCloudEdge)
 Multi-cloud edge orchestration with embedded AI support. Focused on secure data flow, device modularity, and real-time analytics over AI face-detection and recognition.
