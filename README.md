@@ -6,11 +6,11 @@ R&D manager, expert in embedded systems, IoT protocols, and (far) edge computing
 
 ### 🧩 [IoT-Embedded](https://github.com/georgevio/IoT-Embedded)
 Modular IoT framework integrating BACnet, KNX, LoRaWAN, and BLE. Designed for scalable edge deployments and protocol interoperability.
-![IoT-Embedded](https://github.com/georgevio/IoT-Embedded/esp-idf/esp32-s3-websocket_server/pics/arch.png)
+![IoT-Embedded]([https://github.com/georgevio/IoT-Embedded/esp-idf/esp32-s3-websocket_server/pics/arch.png](https://github.com/georgevio/ESP32-ZenohMesh/blob/main/pics/esp32-cam.png))
 
 ### ☁️ [TriCloudEdge](https://github.com/georgevio/TriCloudEdge)
 Multi-cloud edge orchestration with embedded AI support. Focused on secure data flow, device modularity, and real-time analytics over AI face-detection and recognition.
-![TriCloudEdge](https://github.com/georgevio/TriCloudEdge/raw/main/docs/tricloud-diagram.png)
+![TriCloudEdge]([https://github.com/georgevio/TriCloudEdge/raw/main/docs/tricloud-diagram.png](https://github.com/georgevio/TriCloudEdge/blob/main/pics/john_doe.png?raw=true))
 
 ### 🕸️ [ESP32-ZenohMesh](https://github.com/georgevio/ESP32-ZenohMesh)
 Zenoh-Pico mesh networking on ESP32. Includes TCP/UDP peer mode operation, socket layer debugging, and extensive AI face detection and recognition over AI-generated datasets.
