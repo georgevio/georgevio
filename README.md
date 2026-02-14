@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm George Violettas
 
-R&D manager, expert in embedded systems, IoT protocols, and (far) edge computing. I specialize in IoT systems archtiectural design, protocols like RPL, BLE, curently working on ESP-IDF build systems, and Zenoh-Pico, targeting real-world deployment and applications, and biometric sensor integration. I value precision, autonomy, and clarity in both code and communication. ***AI rocks!***
+R&D manager, expert in embedded systems, IoT protocols, and (far) edge computing. I specialize in IoT systems (hold a PhD) archtiectural design, protocols like RPL, BLE, curently working on ESP-IDF build systems, and Zenoh-Pico, targeting real-world deployment and applications, and biometric sensor integration. I value precision, autonomy, and clarity in both code and communication. ***AI rocks!***
 
 ## 🔧 Featured Projects
 
